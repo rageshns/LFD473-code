@@ -1,5 +1,5 @@
 # LFD473: PyTorch in Practice - An Applications-First Approach
-
+fourum:- https://forum.linuxfoundation.org/discussion/868359/is-there-a-missing-section-in-05-building-your-first-hf-dataset
 ## Part I: Training a Model in PyTorch
 
 - [PyTorch, Datasets. and Models](https://colab.research.google.com/github/rageshns/LFD473-code/blob/master/notebooks/Chapter2.ipynb)
